@@ -1,0 +1,26 @@
+.un-ordered-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Popular-list-images {
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 80px;
+  cursor: pointer;
+  margin-right: -30px;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 767px) {
+  .Popular-list-images {
+    margin-left: -5px;
+    margin-right: 16px;
+    width: 150px;
+    height: 150px;
+  }
+}

@@ -1,0 +1,140 @@
+.Header-Route-container {
+  background-color: #131313;
+}
+
+.Contact-list-contact-us {
+  background-color: #181818;
+}
+
+.Account-Route-container {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.Account-heading {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  margin-left: 40px;
+  line-height: 47px;
+  color: #131313;
+}
+
+.Account-line-hr {
+  margin-right: 50px;
+}
+
+.Member-ship-check {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  margin-top: -2px;
+  font-size: 24px;
+  line-height: 31px;
+  margin-left: 30px;
+  color: #94a3b8;
+}
+
+.Account-Member-ship {
+  display: flex;
+  flex-direction: row;
+}
+
+.Member-username {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  margin-left: 30px;
+  font-weight: 400;
+  margin-top: -2px;
+  font-size: 24px;
+  line-height: 31px;
+  color: #1e293b;
+}
+
+.Member-Password {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  margin-left: 30px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  margin-top: -10px;
+  color: #1e293b;
+}
+.Account-form-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.Account-plan-details {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  margin-top: -2px;
+  margin-left: 30px;
+  line-height: 31px;
+  color: #94a3b8;
+}
+
+.Account-Premium {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  margin-left: 30px;
+  margin-right: 10px;
+  line-height: 31px;
+  color: #1e293b;
+}
+
+.Account-Ultra-HD {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  padding: 2px;
+  display: flex;
+  margin-top: 25px;
+  height: 30px;
+  border: 1px solid #1e293b;
+  width: 80px;
+  font-size: 18px;
+  line-height: 23px;
+  color: #1e293b;
+}
+
+.Account-plan-Premium-ultra {
+  display: flex;
+  flex-direction: row;
+  margin-top: -25px;
+  display: flex;
+}
+
+.Account-Details-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.Account-line-hr-list {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.LogOut-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.LogOut-Button-Container {
+  padding: 8px 20px;
+  gap: 10px;
+  background: #e50914;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+}

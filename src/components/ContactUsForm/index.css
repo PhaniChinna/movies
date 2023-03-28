@@ -1,0 +1,26 @@
+.Contact-container {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.Google-container {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.Paragraph-container {
+  display: flex;
+}
+.Contact-us {
+  margin-top: 90px;
+  margin-left: -110px;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
